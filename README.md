@@ -1,5 +1,7 @@
 # SS004 - Professional Skills
 
+Trello: https://trello.com/b/huYZ5slC/fix-your-skill-issues
+
 ## Seminar
 + Thinking Skill
 
