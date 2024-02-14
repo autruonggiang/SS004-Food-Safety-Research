@@ -3,7 +3,7 @@
 Trello: https://trello.com/b/huYZ5slC/fix-your-skill-issues
 
 <div align="center">
-   <img src="Images/Trello_overview.png" alt="Trello Wrokspace""/>
+   <img src="Images/Trello_overview.png" alt="Trello Workspace"" width="500"/>
 </div>
 
 ## Seminar
