@@ -6,6 +6,10 @@ Trello: https://trello.com/b/huYZ5slC/fix-your-skill-issues
    <img src="Images/Trello_overview.png" alt="Trello Workspace"" width="500"/>
 </div>
 
+<div align="center">
+   Workspace
+</div>
+
 ## Seminar
 + Thinking Skill
 
