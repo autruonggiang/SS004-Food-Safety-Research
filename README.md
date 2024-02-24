@@ -14,12 +14,12 @@ Trello: https://trello.com/b/huYZ5slC/fix-your-skill-issues
 + Thinking Skill
 
 ## Food Safety Project
-- Midterm
+### Midterm
    + Survey
    + Slide
    + Trailer product
 
-- Final Project
+### Final Project
    + Report
    + Slide
    + Survey
