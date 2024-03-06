@@ -1,4 +1,4 @@
-# SS004 - Professional Skills
+# SS004 - Professional Skills's Seminar and Project
 
 Trello: https://trello.com/b/huYZ5slC/fix-your-skill-issues
 
