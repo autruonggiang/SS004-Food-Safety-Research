@@ -27,3 +27,6 @@ Trello: https://trello.com/b/huYZ5slC/fix-your-skill-issues
    + Completed video product
 
 ## REFERENCES
+1. M.S. Rao, "Soft Skills for Students—Classroom to Corporate," Jaipur - 302003, Rajasthan, India.
+2. BEST: [http://best.edu.vn](http://best.edu.vn)
+3. PACE: [http://www.pace.edu.vn/vn/dao-tao](http://www.pace.edu.vn/vn/dao-tao)
