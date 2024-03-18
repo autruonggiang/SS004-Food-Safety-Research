@@ -7,7 +7,3 @@ File báo cáo. (tập tin báo cáo vẫn lưu ở đây)
 Product: phim ngắn hoặc báo cáo khảo sát
 Slide: slide trình bày
 Submit vào course ở còn nếu quá lớn thì Submit drive here
-
-SS004.O25
-
-https://drive.google.com/drive/folders/15AeK8BttnQjNiT6pYnTPLXv0d9F72dq2?usp=sharing
